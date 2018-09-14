@@ -12,5 +12,5 @@ pui2018
 pwd
 
 ![Alt text](screenShots/setup_env.png)
-![The image should be here](screenShots/setup2_env.png)
+![The image should be here](screenShots/setup_env2.png)
 
