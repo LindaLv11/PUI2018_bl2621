@@ -1,6 +1,6 @@
-##PUI2018_bl2621
+## PUI2018_bl2621
 
-#describe what I did to set up my environment:
+# describe what I did to set up my environment:
 
 nano .bashrc
 export PUI2018="/nfshome/bl2621/PUI2018"
