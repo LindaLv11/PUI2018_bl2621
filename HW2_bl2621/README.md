@@ -2,11 +2,11 @@
 # The Scope of my homework:
 ## Assignment 1:
 Created a 'test.csv' file in directory: HW3_bl2621/Lab3_bl2621. Deleted this file and its history from a Github repo
-![screen shot](ScreenShots/testcsv.png)
-![screen shot](ScreenShots/history.png)
+![screen shot](ScreenShot/testcsv.png)
+![screen shot](ScreenShot/history.png)
 File removed from local:
-![screen shot](ScreenShots/screenls.png)
-![screen shot](ScreenShots/removed.png)
+![screen shot](ScreenShot/screenls.png)
+![screen shot](ScreenShot/removed.png)
 ## Assignment 2:
 Chose E-Designations:CSV file (The first file I can see when I search CSV in the search bar) from NYC OpenData. 
 Used Pandas to read the file and got a scatter plot of TAXLOT against TAXBLOCK
