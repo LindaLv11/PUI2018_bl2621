@@ -1,4 +1,4 @@
-Work with rufy and tanya.
+Work with rufy and tanya. Borong Lyu worked on Logistic Regression, Rufy worked on ANOVA
 
 |**Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **Alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
