@@ -7,7 +7,7 @@ ANOVA| 3, players type: professional (adult performance level 1 (APL1), semi-pro
 
 ### Main plot of the paper for MANOVA: 
 
-!![main plot](plosologistic.png)
+!![main plot](fcf44713631834754a5d7a4087de5147.png)
 
 
 
