@@ -11,4 +11,4 @@ The 0th, 194th, 150th, 327th.
 
 Identified groups of time series that look similar among each other, using the four features engineered in HW11.
 
-Worked alone on this homework.
+Grouped work with Evgeniya
