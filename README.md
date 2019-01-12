@@ -1,16 +1,4 @@
 ## PUI2018_bl2621
 
-# describe what I did to set up my environment:
-
-nano .bashrc
-export PUI2018="/nfshome/bl2621/PUI2018"
-alias pui2018="cd $PUI2018"
-
-source ~/.bashrc
-pwd
-pui2018
-pwd
-
-![Alt text](screenShots/setup_env.png)
-![The image should be here](screenShots/setup_env2.png)
-
+### Homework for Principles of Urban Informatics
+This course is the introduction to the core disciplines of data acquisition and management, integration, and analytics. In this course, the student will learn the major concepts, tools, and techniques for what informatics can do for cities. It includes background in data management, visualization, and data science, and also includes material not usually covered in computer science courses, including how to best handle spatial-temporal data, and issues related to citizen science and participatory sensing. It presents software tools, frameworks for problem-solving and model selection parameters using data science in the urban context, including basic modeling and analytical methods; visualization techniques, including geographic information systems; working with large datasets and understanding data sources, including instrumentation, physical sensors, imagery, and mobile sensing platforms; explores issues of data ethics, privacy, etc.; and provides an introduction to citizen science, crowd-sourcing, and participatory sensing.

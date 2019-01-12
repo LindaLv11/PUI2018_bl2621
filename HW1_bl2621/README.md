@@ -8,6 +8,20 @@
 
 ## Assignment 1: Set up your environment:
 
+# describe what I did to set up my environment:
+
+nano .bashrc
+export PUI2018="/nfshome/bl2621/PUI2018"
+alias pui2018="cd $PUI2018"
+
+source ~/.bashrc
+pwd
+pui2018
+pwd
+
+![Alt text](screenShot/setup_env.png)
+![The image should be here](screenShot/setup_env2.png)
+
 follow the instructions in [HW1_2_instructions.md](https://github.com/fedhere/PUI2018_fb55/blob/master/HW1_fb55/HW1_2_instructions.md)
 
 GRADING: 
